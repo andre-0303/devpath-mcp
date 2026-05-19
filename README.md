@@ -1,5 +1,10 @@
 # DevPath MCP
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Protocol-6D28D9?style=for-the-badge&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Storage-000000?style=for-the-badge&logo=json&logoColor=white)
+![STDIO](https://img.shields.io/badge/Transport-STDIO-gray?style=for-the-badge&logoColor=white)
+
 Servidor MCP em Go que guia desenvolvedores pelo aprendizado progressivo de linguagens. Em vez de um curso genérico, responde: **"Hoje, baseado no seu progresso, você deve estudar _isso_ por 1h."**
 
 ## Pré-requisitos
